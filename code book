@@ -1,0 +1,12 @@
+This code book describes the variables used. 
+
+Description of each file
+
+- features.txt: List of all features.
+- activity_labels: Links the class labels with their activity name.
+- X_train: Training set
+- Y_train: Training labels 
+- X_test: Test set 
+- Y_test :Test labels 
+- subject_train: Each row identifies the subject who performed the activity for each window sample in the training set. Its range is from 1 to 30.
+- subject_test: Each row identifies the subject who performed the activity for each window sample in the test set.
